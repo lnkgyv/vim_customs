@@ -1,7 +1,7 @@
 " Paths consider Debian 11 setup
 
 " syntax colors
-"source /usr/share/vim/vim82/syntax/
+" source /usr/share/vim/vim82/syntax/
 syntax on
 
 " filetype idents
